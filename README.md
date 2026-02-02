@@ -5,5 +5,6 @@ We do this by supporting technology and biotech companies through grants and ear
 You can learn more about us on maftfoundation.com
 
 # Tech at MAFT 
-We aim to share knowledge, data and participate in open source projects. Check longevitech.io
-
+We aim to share knowledge, data and participate in open source projects. 
+Current public projects include longevitech.io
+If you have a longevity related project feel free to reach out: contact@maftfoundation.org
